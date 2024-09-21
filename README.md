@@ -20,21 +20,6 @@ chmod +x install-sb.sh
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=samsesh/SocialBox-Termux&type=Date)](https://star-history.com/#samsesh/SocialBox-Termux&Date)
-### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [doante page](https://github.com/samsesh/donate)
-# for any os :
-* [socialbox](https://github.com/samsesh/SocialBox)
-# Contact
-* [Youtube](https://www.Youtube.com/@samseshtech) - samseshtech
-* [Instagram](https://www.instagram.com/samseshtech) - samseshtech
-* [Twitter](https://www.twitter.com/_samsesh) - _samsesh
-* [Instagram](https://www.instagram.com/samses) - sam.sesh
-# Authors :
-* facebook  : Imad
-* facebook2 : @fikrado
-* gmail     : Ha3MrX
-* instagram : thelinuxchoice
-* Twitter   : thelinuxchoice
-* SocialBox : samsesh
-* SocialBox-Termux : samsesh
+
+
+
