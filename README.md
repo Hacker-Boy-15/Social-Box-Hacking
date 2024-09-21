@@ -17,9 +17,7 @@ chmod +x install-sb.sh
 ![Test Image 8](https://github.com/samsesh/SocialBox-Termux/blob/master/Screenshots/sb.png)
 # Tested On :
 * Termux on andriod (tor connected if use vpn )
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=samsesh/SocialBox-Termux&type=Date)](https://star-history.com/#samsesh/SocialBox-Termux&Date)
 
 
 
